@@ -1,0 +1,45 @@
+    <header class="bg-image">
+        <h1>Üdvözöllek oldalunkon!</h1>
+        <p><b>Kávézó vagy internet? Nemkell választani legyen mindkettő!!</b></p>
+        <h2>Latte Internet Caffe</h2>
+        <p id="eler"><a href="https://www.facebook.com/?locale=hu_HU">Facebook</a><a href="https://x.com/i/flow/login">,X</a></p>
+
+
+    </header>
+    <main>
+        <div class="row">
+        <!--jobb oldal-->
+        <div class="col-3">
+            <div>
+                <h2>Árlista</h2>
+                <ul>
+                    <li>Minden mentes <b>Espresso</b></li>
+                    <li>Minden mentes <b>Latte</b></li>
+                    <li>Minden mentes <b>Ice caffe</b></li>
+                    <li>Minden mentes <b>Hosszú</b></li>
+                    <li>Minden mentes <b>Rövid</b></li>
+                    <li>Minden mentes <b>Közepes</b></li>
+                </ul>
+            </div>
+
+        </div>
+        <!--középső-->
+        <div class="col-6">
+
+        </div>
+        <!--bal oldal-->
+        <div class="col-3">
+
+        </div>
+    </div>
+
+
+
+
+    </main>
+    <footer>
+
+
+
+
+    </footer>
